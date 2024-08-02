@@ -17,7 +17,7 @@ THE JAVASCRIPT WAS USED TO LINK THE CONTACT PAGE TO FORMSPREE AND THE PAYMENT PA
 https://formspree.io/forms/xrbzqary/integration
 https://dashboard.stripe.com/test/dashboard
 
-I deployed the project using Netlify and Render, but it is not working.
+I deployed the project using github.
 
 Maintenance and Updates
 
